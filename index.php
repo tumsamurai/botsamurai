@@ -1,2 +1,2 @@
 <?php
-echo "บอทต้อนรับ";
+echo "BOT AUTo";
